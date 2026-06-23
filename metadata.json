@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: RIVR - Fluid Asset Streams",
+  "description": "Access Smart Vaults, stake RIVR, NFTs, transform rigid holdings into liquid cash instantly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
